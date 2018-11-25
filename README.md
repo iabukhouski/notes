@@ -5,3 +5,21 @@
 - VSCode config
 - /etc/hosts
 - Password Manager Vault
+# Setup MacOS
+- FaceTime
+- Handoff
+- Internet Accounts
+- VPN
+- Mouse and Keyboard speed
+# Setup Applications
+- Chrome
+- iTerm2
+- VSCode
+- Sublime Merge
+- Docker
+- Bitwarden
+- Skype
+- Slack
+- Telegram
+- Viber
+- Microsoft Teams
