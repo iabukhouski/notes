@@ -5,6 +5,7 @@
 - VSCode config
 - /etc/hosts
 - Password Manager Vault
+- `Internet Accounts` settings
 # Setup MacOS
 - FaceTime
 - Handoff
