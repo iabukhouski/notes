@@ -24,3 +24,5 @@
 - Telegram
 - Viber
 - Microsoft Teams
+- AWS CLI
+- GCP CLI
