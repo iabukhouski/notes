@@ -13,7 +13,9 @@
 - VPN
 - Mouse and Keyboard speed
 # Setup Applications
-- Chrome
+- Chrome Beta
+- Chrome Canary
+- Firefox Nightly
 - iTerm2
 - VSCode
 - Sublime Merge
@@ -24,5 +26,16 @@
 - Telegram
 - Viber
 - Microsoft Teams
+- Zoom
 - AWS CLI
 - GCP CLI
+- Brew
+- NVM
+- Insomnia
+- Office 365
+- XCode
+- Git
+- Python
+- RVM
+- The Unarchiver
+- Clipy
