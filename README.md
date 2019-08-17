@@ -12,6 +12,7 @@
 - Internet Accounts
 - VPN
 - Mouse and Keyboard speed
+- macOS to iOS tethering
 # Setup Applications
 - Chrome Beta
 - Chrome Canary
