@@ -1,6 +1,8 @@
 # Things to backup
 - Browser Bookmarks
 - ~/.bash_profile
+- ~/.aws/config
+- ~/.ssh/config
 - SSH Keys
 - VSCode config
 - /etc/hosts
