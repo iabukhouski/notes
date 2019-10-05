@@ -8,6 +8,8 @@
 - /etc/hosts
 - Password Manager Vault
 - `Internet Accounts` settings
+- Insomnia Workspaces
+- iTerm Profiles Backup
 # Setup MacOS
 - FaceTime
 - Handoff
@@ -15,16 +17,19 @@
 - VPN
 - Mouse and Keyboard speed
 - macOS to iOS tethering
+- Shared Clipboard
 # Setup Applications
 - Chrome Beta
 - Chrome Canary
 - Firefox Nightly
+- Safari Technology Preview
 - iTerm2
 - VSCode
 - Sublime Merge
 - Docker
 - Bitwarden
 - Skype
+- Skype for Business
 - Slack
 - Telegram
 - Viber
@@ -42,3 +47,10 @@
 - RVM
 - The Unarchiver
 - Clipy
+- NVM
+- Node
+- NPM
+- Balena Etcher
+- OmniDiskSweeper
+- Alinof Timer
+- Amphetamine
