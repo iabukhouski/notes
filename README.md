@@ -54,3 +54,5 @@
 - OmniDiskSweeper
 - Alinof Timer
 - Amphetamine
+- Google Drive Backup and Sync
+- Microsoft One Drive Sync
