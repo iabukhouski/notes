@@ -1,1 +1,2 @@
 - If you are faced with a choice to bring or not a dependency (e.g. is-even, react, etc.) what will be your thoughts process?
+- How do you feel about code duplication?
